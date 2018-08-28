@@ -1,0 +1,237 @@
+RIC,Yahoo Symbol,Company Name,Sector,Country,Region,Local Currency,TS Currency
+ASH,ASH,Ashland Inc.,Basic Materials,US,Americas,USD,USD
+ABX.TO,ABX.TO,Barrick Gold Corp.,Basic Materials,Canada,Americas,CAD,CAD
+ABX,ABX,Barrick Gold Corp.,Basic Materials,US,Americas,USD,USD
+DAR,DAR,Darling Ingredients Inc.,Basic Materials,US,Americas,USD,USD
+HUN,HUN,Huntsman Corp.,Basic Materials,US,Americas,USD,USD
+VAL,VAL,The Valspar Corp.,Basic Materials,US,Americas,USD,USD
+CRI,CRI,Carter's Inc.,Consumer Cyclicals,US,Americas,USD,USD
+COST,COST,Costco Wholesale,Consumer Cyclicals,US,Americas,USD,USD
+DISH,DISH,DISH Network Corp.,Consumer Cyclicals,US,Americas,USD,USD
+LEN,LEN,Lennar Corp.,Consumer Cyclicals,US,Americas,USD,USD
+NKE,NKE,"Nike, Inc.",Consumer Cyclicals,US,Americas,USD,USD
+PVH,PVH,PVH Corp.,Consumer Cyclicals,US,Americas,USD,USD
+ROST,ROST,"Ross Stores, Inc.",Consumer Cyclicals,US,Americas,USD,USD
+WYN,WYN,Wyndham Worldwide Corp.,Consumer Cyclicals,US,Americas,USD,USD
+MNST,MNST,Monster Beverage Corporation,Consumer Staples,US,Americas,USD,USD
+EL,EL,The Estee Lauder Companies Inc.,Consumer Staples,US,Americas,USD,USD
+AYI,AYI,"Acuity Brands, Inc.",Energy,US,Americas,USD,USD
+EOG,EOG,EOG Resources Inc.,Energy,US,Americas,USD,USD
+OII,OII,"Oceaneering International, Inc.",Energy,US,Americas,USD,USD
+RRC,RRC,Range Resources Corp.,Energy,US,Americas,USD,USD
+SCTY,SCTY,SolarCity Corp,Energy,US,Americas,USD,USD
+SXC,SXC,"SunCoke Energy, Inc.",Energy,US,Americas,USD,USD
+CBG,CBG,CBRE Group Inc.,Financial Services,US,Americas,USD,USD
+COF,COF,Capital One Financial Corp.,Financial Services,US,Americas,USD,USD
+DFS,DFS,Discover Financial Services,Financial Services,US,Americas,USD,USD
+ETFC,ETFC,E*TRADE Financial Corp.,Financial Services,US,Americas,USD,USD
+LAZ,LAZ,Lazard Ltd.,Financial Services,US,Americas,USD,USD
+SPG,SPG,Simon Property Group,Financial Services,US,Americas,USD,USD
+STI,STI,"SunTrust Banks, Inc.",Financial Services,US,Americas,USD,USD
+ALL,ALL,The Allstate Corp.,Financial Services,US,Americas,USD,USD
+BX,BX,The Blackstone Group L.P.,Financial Services,US,Americas,USD,USD
+ACT,ACT,Actavis Plc,Healthcare,US,Americas,USD,USD
+AMGN,AMGN,Amgen Inc.,Healthcare,US,Americas,USD,USD
+BMY,BMY,Bristol-Myers Squibb Company,Healthcare,US,Americas,USD,USD
+ENDP,ENDP,Endo International Plc,Healthcare,US,Americas,USD,USD
+EVHC,EVHC,"Envision Healthcare Holdings, Inc.",Healthcare,US,Americas,USD,USD
+HCA,HCA,"HCA Holdings, Inc.",Healthcare,US,Americas,USD,USD
+MCK,MCK,McKesson Corp.,Healthcare,US,Americas,USD,USD
+PKI,PKI,"PerkinElmer, Inc.",Healthcare,US,Americas,USD,USD
+DGX,DGX,Quest Diagnostics Incorporated,Healthcare,US,Americas,USD,USD
+BERY,BERY,"Berry Plastics Group, Inc.",Industrials,US,Americas,USD,USD
+EXP,EXP,Eagle Materials Inc.,Industrials,US,Americas,USD,USD
+LMT,LMT,Lockheed Martin Corp.,Industrials,US,Americas,USD,USD
+MLM,MLM,Martin Marietta Materials,Industrials,US,Americas,USD,USD
+WBC,WBC,WABCO Holdings Inc.,Industrials,US,Americas,USD,USD
+AMZN,AMZN,Amazon.com Inc.,Technology,US,Americas,USD,USD
+ADSK,ADSK,Autodesk Inc.,Technology,US,Americas,USD,USD
+FLT,FLT,"FleetCor Technologies, Inc.",Technology,US,Americas,USD,USD
+INFN,INFN,Infinera Corp.,Technology,US,Americas,USD,USD
+LRCX,LRCX,Lam Research Corp.,Technology,US,Americas,USD,USD
+PANW,PANW,Palo Alto Networks Inc.,Technology,US,Americas,USD,USD
+PAYX,PAYX,"Paychex, Inc.",Technology,US,Americas,USD,USD
+PCLN,PCLN,Priceline.com Incorporated,Technology,US,Americas,USD,USD
+RKUS,RKUS,"Ruckus Wireless, Inc.",Technology,US,Americas,USD,USD
+TER,TER,"Teradyne, Inc.",Technology,US,Americas,USD,USD
+EBAY,EBAY,eBay Inc.,Technology,US,Americas,USD,USD
+CRM,CRM,"salesforce.com, Inc.",Technology,US,Americas,USD,USD
+ODFL,ODFL,"Old Dominion Freight Line, Inc.",Transportation,US,Americas,USD,USD
+CPN,CPN,Calpine Corporation,Utilities,US,Americas,USD,USD
+KMI,KMI,"Kinder Morgan, Inc.",Utilities,US,Americas,USD,USD
+MWE,MWE,"MarkWest Energy Partners, L.P.",Utilities,US,Americas,USD,USD
+PAGP,PAGP,"Plains GP Holdings, L.P.",Utilities,US,Americas,USD,USD
+TRGP,TRGP,Targa Resources Corp,Utilities,US,Americas,USD,USD
+ACX.MC,ACX.MC,Acerinox,Basic Materials,,Europe,EUR,EUR
+JMAT.L,JMAT.L,Johnson Matthey,Basic Materials,UK,Europe,GBP,GBP
+LMI.L,LMI.L,Lonmin,Basic Materials,UK,Europe,GBP,GBP
+NHY.OL,NHY.OL,Norsk Hydro,Basic Materials,Norway,Europe,NOK,NOK
+PTM.TO,PTM.TO,Platinum Group Metals Ltd.,Basic Materials,,Europe,CAD,CAD
+RIO.L,RIO.L,Rio Tinto plc,Basic Materials,UK,Europe,GBP,GBP
+SY1G.DE,SY1.DE,Symrise,Basic Materials,,Europe,EUR,EUR
+AMA.MC,AMS.MC,Amadeus IT Holding SA,Consumer Cyclicals,,Europe,EUR,EUR
+BRBY.L,BRBY.L,Burberry,Consumer Cyclicals,,Europe,GBP,GBP
+DMGOa.L,DMGT.L,Daily Mail and General Trust (A),Consumer Cyclicals,,Europe,GBP,GBP
+DAIGn.DE,DAI.DE,Daimler AG,Consumer Cyclicals,,Europe,EUR,EUR
+DUFN.S,DUFN.SW,Dufry,Consumer Cyclicals,,Europe,CHF,CHF
+HAYS.L,HAS.L,Hays plc,Consumer Cyclicals,,Europe,GBP,GBP
+IMCD.AS,IMCD.AS,IMCD Group,Consumer Cyclicals,,Europe,EUR,EUR
+MKS.L,MKS.L,Marks & Spencer,Consumer Cyclicals,,Europe,GBP,GBP
+MARS.L,MARS.L,Marston's Plc,Consumer Cyclicals,,Europe,GBP,GBP
+MS.MI,MS.MI,Mediaset,Consumer Cyclicals,,Europe,EUR,EUR
+PEUP.PA,UG.PA,Peugeot,Consumer Cyclicals,,Europe,EUR,EUR
+PSMGn.DE,PSM.DE,ProSiebenSat.1,Consumer Cyclicals,,Europe,EUR,EUR
+RMV.L,RMV.L,Rightmove Plc,Consumer Cyclicals,,Europe,GBP,GBP
+SFER.MI,SFER.MI,Salvatore Ferragamo SpA,Consumer Cyclicals,,Europe,EUR,EUR
+TPT.L,TPT.L,Topps Tiles,Consumer Cyclicals,,Europe,GBP,GBP
+WPP.L,WPP.L,WPP Plc,Consumer Cyclicals,,Europe,GBP,GBP
+ABI.BR,ABI.BR,Anheuser-Busch InBev,Consumer Staples,,Europe,EUR,EUR
+CHRH.CO,CHR.CO,Chr Hansen,Consumer Staples,,Europe,DKK,DKK
+SBRY.L,SBRY.L,J Sainsbury,Consumer Staples,,Europe,GBP,GBP
+OREP.PA,OR.PA,L'Oreal,Consumer Staples,,Europe,EUR,EUR
+OCDO.L,OCDO.L,Ocado Group PLC,Consumer Staples,,Europe,GBP,GBP
+SAB.L,SAB.L,SABMiller,Consumer Staples,,Europe,GBP,GBP
+SZUG.DE,SZU.DE,Suedzucker AG,Consumer Staples,,Europe,EUR,EUR
+AFRE.L,AFR.L,Afren Plc,Energy,,Europe,GBP,GBP
+AOIC.ST,AOI.TO,Africa Oil Corp,Energy,,Europe,SEK,CAD
+BG.L,BG.L,BG Group,Energy,,Europe,GBP,GBP
+ENI.MI,ENI.MI,ENI,Energy,,Europe,EUR,EUR
+TGS.OL,TGS.OL,TGS Nopec,Energy,,Europe,NOK,NOK
+AZMT.MI,AZM.MI,Azimut Holding,Financial Services,,Europe,EUR,EUR
+BBVA.MC,BBVA.MC,BBVA,Financial Services,,Europe,EUR,EUR
+BYG.L,BYG.L,Big Yellow,Financial Services,,Europe,GBP,GBP
+CSGN.VX,CS,Credit Suisse,Financial Services,,Europe,CHF,CHF
+GPOR.L,GPOR.L,Great Portland Estates,Financial Services,,Europe,GBP,GBP
+ING.AS,ING,ING Groep N.V.,Financial Services,,Europe,EUR,EUR
+ISP.MI,ISP.MI,Intesa Sanpaolo,Financial Services,,Europe,EUR,EUR
+SBST.OL,SCH.OL,Schibsted ASA,Financial Services,,Europe,NOK,NOK
+SJP.L,STJ.L,St. James's Place plc,Financial Services,,Europe,GBP,GBP
+TRYG.CO,TRYG.CO,Tryg A/S,Financial Services,,Europe,DKK,DKK
+UNPI.MI,UNI.MI,Unipol (Ordinary Shares),Financial Services,,Europe,EUR,EUR
+ZURN.VX,ZURVY,Zurich Insurance Group,Financial Services,,Europe,CHF,USD
+GRLSbn.MC,GRF.MC,Grifols (Pref),Healthcare,,Europe,EUR,EUR
+IPH.PA,IPH.PA,Innate Pharma SA,Healthcare,,Europe,EUR,EUR
+ROG.VX,ROG.VX,Roche,Healthcare,,Europe,CHF,CHF
+SHP.L,SHP.L,Shire,Healthcare,,Europe,GBP,GBP
+AALB.AS,AALB.AS,Aalberts,Industrials,,Europe,EUR,EUR
+ATCOa.ST,ATCO-A.ST,Atlas Copco,Industrials,,Europe,SEK,SEK
+CRST.L,CRST.L,Crest Nicholson Holdings plc,Industrials,,Europe,GBP,GBP
+GEBN.VX,GEBN.VX,Geberit Holdings,Industrials,,Europe,CHF,CHF
+MTXGn.DE,MTX.DE,MTU Aero Engines,Industrials,,Europe,EUR,EUR
+SAF.PA,SAF.PA,Safran,Industrials,,Europe,EUR,EUR
+SIEGn.DE,SIE.DE,Siemens AG,Industrials,,Europe,EUR,EUR
+SXS.L,SXS.L,Spectris,Industrials,,Europe,GBP,GBP
+TW.L,TW.L,Taylor Wimpey,Industrials,,Europe,GBP,GBP
+WBSV.VI,WIE.VI,Wienerberger,Industrials,,Europe,EUR,EUR
+ZOT.MC,ZOT.MC,Zardoya Otis,Industrials,,Europe,EUR,EUR
+ARM.L,ARM.L,ARM Holdings plc,Technology,,Europe,GBP,GBP
+SAP,SAP,SAP (ADR),Technology,,Europe,USD,USD
+SAPG.DE,SAP.DE,SAP (Ordinary Share),Technology,,Europe,EUR,EUR
+WDIG.DE,WDI.DE,Wirecard,Technology,,Europe,EUR,EUR
+ATCE.AS,ATC.AS,Altice SA,Telecom Services,,Europe,EUR,EUR
+BT.L,BT-A.L,BT Group,Telecom Services,,Europe,GBP,GBP
+ILD.PA,ILD.PA,Iliad,Telecom Services,,Europe,EUR,EUR
+TLIT.MI,TIT.MI,Telecom Italia,Telecom Services,,Europe,EUR,EUR
+EZJ.L,EZJ.L,Easyjet,Transportation,,Europe,GBP,GBP
+GOG.L,GOG.L,Go-ahead,Transportation,,Europe,GBP,GBP
+DRX.L,DRX.L,Drax Group Plc,Utilities,,Europe,GBP,GBP
+EONGn.DE,EOAN.DE,E.ON,Utilities,,Europe,EUR,EUR
+HRA.MI,HER.MI,Hera SpA,Utilities,,Europe,EUR,EUR
+5401.T,NSSMY,Nippon Steel & Sumitomo Metal,Basic Materials,Japan,Japan,JPY,JPY
+4205.T,,Zeon,Basic Materials,Japan,Japan,JPY,
+4324.T,DEN.F,Dentsu,Consumer Cyclicals,Japan,Japan,JPY,USD
+9843.T,NCLTF,Nitori,Consumer Cyclicals,Japan,Japan,JPY,USD
+7203.T,TM,Toyota Motor,Consumer Cyclicals,Japan,Japan,JPY,USD
+2802.T,AJINF,Ajinomoto,Consumer Staples,Japan,Japan,JPY,USD
+3673.T,9BL.F,Broad leaf,Consumer Staples,Japan,Japan,JPY,EUR
+7599.T,7599,Gulliver International,Consumer Staples,Japan,Japan,JPY,JPY
+2181.T,,Temp Holdings Co Ltd,Consumer Staples,Japan,Japan,JPY,
+3141.T,3141,Welcia Holdings Co Ltd,Consumer Staples,Japan,Japan,JPY,JPY
+8905.T,,Aeon Mall Co Ltd,Financial Services,Japan,Japan,JPY,
+8316.T,SMFG,Sumitomo Mitsui Financial Group,Financial Services,Japan,Japan,JPY,USD
+7733.T,OCPNY,Olympus,Healthcare,Japan,Japan,JPY,USD
+6954.T,FANUY,Fanuc,Industrials,Japan,Japan,JPY,USD
+8002.T,MARUY,Marubeni Corporation,Industrials,Japan,Japan,JPY,USD
+6471.T,NSK.F,NSK,Industrials,Japan,Japan,JPY,EUR
+5803.T,FJK.F,Fujikura,Technology,Japan,Japan,JPY,EUR
+6756.T,KKE.F,Hitachi Kokusai Electric,Technology,Japan,Japan,JPY,EUR
+4902.T,KNCAY,Konica Minolta,Technology,Japan,Japan,JPY,USD
+6594.T,NJ,Nidec,Technology,Japan,Japan,JPY,USD
+4768.T,OTSKF,Otsuka,Technology,Japan,Japan,JPY,EUR
+4689.T,YOJ.F,Yahoo Japan,Technology,Japan,Japan,JPY,EUR
+9513.T,,Electric Power Development (J-POWER),Utilities,Japan,Japan,JPY,
+601288.SS,601288.SS,Agricultural Bank of China (A),Financial Services,China,Asia Pacific,CNY,CNY
+1288.HK,1288.HK,Agricultural Bank of China (H),Financial Services,China,Asia Pacific,HKD,HKD
+000898.SZ,000898.SZ,Angang Steel (A),Basic Materials,China,Asia Pacific,CNY,CNY
+0914.HK,0914.HK,Anhui Conch Cement (H),Industrials,China,Asia Pacific,HKD,HKD
+300058.SZ,300058.SZ,BlueFocus Communication,Consumer Cyclicals,China,Asia Pacific,CNY,CNY
+6199.HK,6199.HK,China CNR Corporation Limited (H),Industrials,China,Asia Pacific,HKD,HKD
+1359.HK,1359.HK,China Cinda Asset Management Co Ltd,Financial Services,China,Asia Pacific,HKD,HKD
+0670.HK,0670.HK,China Eastern Airlines (H),Transportation,China,Asia Pacific,HKD,HKD
+601888.SS,601888.SS,China International Travel Service,Consumer Cyclicals,China,Asia Pacific,CNY,CNY
+0144.HK,0144.HK,China Merchants Holdings,Industrials,China,Asia Pacific,HKD,HKD
+000002.SZ,000002.SZ,China Vanke (A),Financial Services,China,Asia Pacific,CNY,CNY
+2007.HK,2007.HK,Country Garden Holdings Company,Financial Services,China,Asia Pacific,HKD,HKD
+601006.SS,601006.SS,Daqin Railway,Transportation,China,Asia Pacific,CNY,CNY
+0895.HK,0895.HK,Dongjiang Environmental Company Limited,Industrials,China,Asia Pacific,HKD,HKD
+002241.SZ,002241.SZ,GoerTek Inc.,Technology,China,Asia Pacific,CNY,CNY
+002415.SZ,002415.SZ,Hangzhou Hikvision,Technology,China,Asia Pacific,CNY,CNY
+HMIN,HMIN,Home Inns & Hotels Management Inc.,Financial Services,China,Asia Pacific,USD,USD
+1071.HK,1071.HK,Huadian Power International (H),Utilities,China,Asia Pacific,HKD,HKD
+1833.HK,1833.HK,Intime Retail (Group) Company Limited,Consumer Cyclicals,China,Asia Pacific,HKD,HKD
+600872.SS,600872.SS,"Jonjee Hi-Tech Industrial Co, Ltd",Consumer Staples,China,Asia Pacific,CNY,CNY
+600519.SS,600519.SS,Kweichow Moutai,Consumer Staples,China,Asia Pacific,CNY,CNY
+600612.SS,600612.SS,Lao Feng Xiang Co.,Consumer Cyclicals,China,Asia Pacific,CNY,CNY
+601318.SS,601318.SS,Ping An Insurance Group (A),Financial Services,China,Asia Pacific,CNY,CNY
+2318.HK,2318.HK,Ping An Insurance Group (H),Financial Services,China,Asia Pacific,HKD,HKD
+600196.SS,600196.SS,Shanghai Fosun Pharmaceutical,Healthcare,China,Asia Pacific,CNY,CNY
+0750.HK,0750.HK,Singyes Solar,Energy,China,Asia Pacific,HKD,HKD
+200581.SZ,200581.SZ,Weifu High-Technology Group (B),Consumer Cyclicals,China,Asia Pacific,HKD,HKD
+WX,WX,WuXi PharmaTech Cayman,Healthcare,China,Asia Pacific,USD,USD
+600549.SS,600549.SS,"Xiamen Tungsten Co., Ltd.",Basic Materials,China,Asia Pacific,CNY,CNY
+YAZG.SI,BS6.SI,Yangzijiang Shipbuilding,Industrials,China,Asia Pacific,SGD,SGD
+1299.HK,1299.HK,AIA Group,Financial Services,Hong Kong,Asia Pacific,HKD,HKD
+2388.HK,2388.HK,BOC Hong Kong (Holdings),Financial Services,Hong Kong,Asia Pacific,HKD,HKD
+3386.HK,3386.HK,Dongpeng Holdings Co Ltd,Industrials,Hong Kong,Asia Pacific,HKD,HKD
+0013.HK,0013.HK,Hutchison Whampoa,Industrials,Hong Kong,Asia Pacific,HKD,HKD
+0316.HK,0316.HK,Orient Overseas Int'l,Transportation,Hong Kong,Asia Pacific,HKD,HKD
+1972.HK,1972.HK,Swire Properties,Financial Services,Hong Kong,Asia Pacific,HKD,HKD
+GRAS.BO,GRASIM.BO,Grasim Industries,Industrials,India,Asia Pacific,INR,INR
+HPCL.BO,HINDPETRO.NS,Hindustan Petroleum,Energy,India,Asia Pacific,INR,INR
+ITC.BO,ITC.BO,ITC,Consumer Staples,India,Asia Pacific,INR,INR
+LART.BO,LT.NS,Larsen & Toubro,Industrials,India,Asia Pacific,INR,INR
+SBI.BO,SBIN.NS,State Bank of India,Financial Services,India,Asia Pacific,INR,INR
+VOLT.BO,VOLTAS.NS,Voltas,Industrials,India,Asia Pacific,INR,INR
+BDMN.JK,BDMN.JK,Bank Danamon,Financial Services,Indonesia,Asia Pacific,IDR,IDR
+161390.KS,161390.KS,Hankook Tire,Consumer Cyclicals,South Korea,Asia Pacific,KRW,KRW
+000720.KS,000720.KS,Hyundai Engineering & Construction,Industrials,South Korea,Asia Pacific,KRW,KRW
+010620.KS,010620.KS,Hyundai Mipo Dockyard,Industrials,South Korea,Asia Pacific,KRW,KRW
+030200.KS,030200.KS,KT Corp,Telecom Services,South Korea,Asia Pacific,KRW,KRW
+KT,KT,KT Corp (ADR),Telecom Services,South Korea,Asia Pacific,USD,USD
+2282.HK,2282.HK,MGM China,Industrials,Macau,Asia Pacific,HKD,HKD
+MXSC.KL,6012.KL,Maxis Berhad,Telecom Services,Malaysia,Asia Pacific,MYR,MYR
+ALI.PS,ALI.PS,"Ayala Land, Inc.",Financial Services,Philippines,Asia Pacific,PHP,PHP
+DBSM.SI,D05.SI,DBS Group Holdings,Financial Services,Singapore,Asia Pacific,SGD,SGD
+SGXL.SI,S68.SI,Singapore Exchange,Financial Services,Singapore,Asia Pacific,SGD,SGD
+5871.TW,5871.TW,Chailease Holdings,Financial Services,Taiwan,Asia Pacific,TWD,TWD
+2823.TW,2823.TW,China Life Insurance Co Ltd,Financial Services,Taiwan,Asia Pacific,TWD,TWD
+1723.TW,1723.TW,China Steel Chemical,Basic Materials,Taiwan,Asia Pacific,TWD,TWD
+2330.TW,2330.TW,TSMC,Technology,Taiwan,Asia Pacific,TWD,TWD
+TSM,TSM,TSMC (ADR),Technology,Taiwan,Asia Pacific,USD,USD
+5903.TWO,5903.TWO,Taiwan FamilyMart Co Ltd,Consumer Staples,Taiwan,Asia Pacific,TWD,TWD
+DSH.AX,DSH.AX,Dick Smith Holdings Limited,Consumer Cyclicals,Australia,Australia / New Zealand,AUD,AUD
+NEC.AX,NEC.AX,Nine Entertainment Co,Consumer Cyclicals,Australia,Australia / New Zealand,AUD,AUD
+SEK.AX,SEK.AX,SEEK,Consumer Cyclicals,Australia,Australia / New Zealand,AUD,AUD
+MELCA.NZ,MELCA.NZ,Meridian Energy Limited,Energy,New Zealand,Australia / New Zealand,NZD,NZD
+STO.AX,STO.AX,Santos Limited,Energy,Australia,Australia / New Zealand,AUD,AUD
+ANZ.AX,ANZ.AX,ANZ Banking Group Limited,Financial Services,Australia,Australia / New Zealand,AUD,AUD
+AUB.AX,AUB.AX,Austbrokers Holdings Limited,Financial Services,Australia,Australia / New Zealand,AUD,AUD
+GMG.AX,GMG.AX,Goodman Group,Financial Services,Australia,Australia / New Zealand,AUD,AUD
+MGR.AX,MGR.AX,Mirvac Group,Financial Services,Australia,Australia / New Zealand,AUD,AUD
+OFX.AX,OFX.AX,OzForex Group Limited,Financial Services,Australia,Australia / New Zealand,AUD,AUD
+CSL.AX,CSL.AX,CSL Ltd.,Healthcare,Australia,Australia / New Zealand,AUD,AUD
+WES.AX,WES.AX,Wesfarmers,Industrials,Australia,Australia / New Zealand,AUD,AUD
+AIO.AX,AIO.AX,Asciano Group,Transportation,Australia,Australia / New Zealand,AUD,AUD
+DUE.AX,DUE.AX,DUET Group,Utilities,Australia,Australia / New Zealand,AUD,AUD
+IFT.NZ,IFT.NZ,Infratil,Utilities,Australia,Australia / New Zealand,NZD,NZD
+SKI.AX,SKI.AX,Spark Infrastructure,Utilities,Australia,Australia / New Zealand,AUD,AUD

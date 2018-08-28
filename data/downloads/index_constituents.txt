@@ -1,0 +1,506 @@
+Index	Symbol	Name
+^GSPC	MMM	3M Company
+^GSPC	ABT	Abbott Laboratories
+^GSPC	ABBV	AbbVie
+^GSPC	ACN	Accenture plc
+^GSPC	ATVI	Activision Blizzard
+^GSPC	AYI	Acuity Brands Inc
+^GSPC	ADBE	Adobe Systems Inc
+^GSPC	AAP	Advance Auto Parts
+^GSPC	AES	AES Corp
+^GSPC	AET	Aetna Inc
+^GSPC	AMG	Affiliated Managers Group Inc
+^GSPC	AFL	AFLAC Inc
+^GSPC	A	Agilent Technologies Inc
+^GSPC	APD	Air Products & Chemicals Inc
+^GSPC	AKAM	Akamai Technologies Inc
+^GSPC	ALK	Alaska Air Group Inc
+^GSPC	ALB	Albemarle Corp
+^GSPC	AGN	Allergan, Plc
+^GSPC	LNT	Alliant Energy Corp
+^GSPC	ALXN	Alexion Pharmaceuticals
+^GSPC	ALLE	Allegion
+^GSPC	ADS	Alliance Data Systems
+^GSPC	ALL	Allstate Corp
+^GSPC	GOOGL	Alphabet Inc Class A
+^GSPC	GOOG	Alphabet Inc Class C
+^GSPC	MO	Altria Group Inc
+^GSPC	AMZN	Amazon.com Inc
+^GSPC	AEE	Ameren Corp
+^GSPC	AAL	American Airlines Group
+^GSPC	AEP	American Electric Power
+^GSPC	AXP	American Express Co
+^GSPC	AIG	American International Group, Inc.
+^GSPC	AMT	American Tower Corp A
+^GSPC	AWK	American Water Works Company Inc
+^GSPC	AMP	Ameriprise Financial
+^GSPC	ABC	AmerisourceBergen Corp
+^GSPC	AME	AMETEK Inc
+^GSPC	AMGN	Amgen Inc
+^GSPC	APH	Amphenol Corp
+^GSPC	APC	Anadarko Petroleum Corp
+^GSPC	ADI	Analog Devices, Inc.
+^GSPC	ANTM	Anthem Inc.
+^GSPC	AON	Aon plc
+^GSPC	APA	Apache Corporation
+^GSPC	AIV	Apartment Investment & Mgmt
+^GSPC	AAPL	Apple Inc.
+^GSPC	AMAT	Applied Materials Inc
+^GSPC	ADM	Archer-Daniels-Midland Co
+^GSPC	ARNC	Arconic Inc
+^GSPC	AJG	Arthur J. Gallagher & Co.
+^GSPC	AIZ	Assurant Inc
+^GSPC	T	AT&T Inc
+^GSPC	ADSK	Autodesk Inc
+^GSPC	ADP	Automatic Data Processing
+^GSPC	AN	AutoNation Inc
+^GSPC	AZO	AutoZone Inc
+^GSPC	AVB	AvalonBay Communities, Inc.
+^GSPC	AVY	Avery Dennison Corp
+^GSPC	BHI	Baker Hughes Inc
+^GSPC	BLL	Ball Corp
+^GSPC	BAC	Bank of America Corp
+^GSPC	BK	The Bank of New York Mellon Corp.
+^GSPC	BCR	Bard (C.R.) Inc.
+^GSPC	BAX	Baxter International Inc.
+^GSPC	BBT	BB&T Corporation
+^GSPC	BDX	Becton Dickinson
+^GSPC	BBBY	Bed Bath & Beyond
+^GSPC	BRK.B	Berkshire Hathaway
+^GSPC	BBY	Best Buy Co. Inc.
+^GSPC	BIIB	BIOGEN IDEC Inc.
+^GSPC	BLK	BlackRock
+^GSPC	HRB	Block H&R
+^GSPC	BA	Boeing Company
+^GSPC	BWA	BorgWarner
+^GSPC	BXP	Boston Properties
+^GSPC	BSX	Boston Scientific
+^GSPC	BMY	Bristol-Myers Squibb
+^GSPC	AVGO	Broadcom
+^GSPC	BF.B	Brown-Forman
+^GSPC	CHRW	C. H. Robinson Worldwide
+^GSPC	CA	CA, Inc.
+^GSPC	COG	Cabot Oil & Gas
+^GSPC	CPB	Campbell Soup
+^GSPC	COF	Capital One Financial
+^GSPC	CAH	Cardinal Health Inc.
+^GSPC	HSIC	Henry Schein
+^GSPC	KMX	Carmax Inc
+^GSPC	CCL	Carnival Corp.
+^GSPC	CAT	Caterpillar Inc.
+^GSPC	CBG	CBRE Group
+^GSPC	CBS	CBS Corp.
+^GSPC	CELG	Celgene Corp.
+^GSPC	CNC	Centene Corporation
+^GSPC	CNP	CenterPoint Energy
+^GSPC	CTL	CenturyLink Inc
+^GSPC	CERN	Cerner
+^GSPC	CF	CF Industries Holdings Inc
+^GSPC	SCHW	Charles Schwab Corporation
+^GSPC	CHTR	Charter Communications
+^GSPC	CHK	Chesapeake Energy
+^GSPC	CVX	Chevron Corp.
+^GSPC	CMG	Chipotle Mexican Grill
+^GSPC	CB	Chubb Limited
+^GSPC	CHD	Church & Dwight
+^GSPC	CI	CIGNA Corp.
+^GSPC	XEC	Cimarex Energy
+^GSPC	CINF	Cincinnati Financial
+^GSPC	CTAS	Cintas Corporation
+^GSPC	CSCO	Cisco Systems
+^GSPC	C	Citigroup Inc.
+^GSPC	CFG	Citizens Financial Group
+^GSPC	CTXS	Citrix Systems
+^GSPC	CLX	The Clorox Company
+^GSPC	CME	CME Group Inc.
+^GSPC	CMS	CMS Energy
+^GSPC	COH	Coach Inc.
+^GSPC	KO	Coca Cola Company
+^GSPC	CTSH	Cognizant Technology Solutions
+^GSPC	CL	Colgate-Palmolive
+^GSPC	CMCSA	Comcast A Corp
+^GSPC	CMA	Comerica Inc.
+^GSPC	CAG	ConAgra Foods Inc.
+^GSPC	CXO	Concho Resources
+^GSPC	COP	ConocoPhillips
+^GSPC	ED	Consolidated Edison
+^GSPC	STZ	Constellation Brands
+^GSPC	GLW	Corning Inc.
+^GSPC	COST	Costco Co.
+^GSPC	COTY	Coty, Inc
+^GSPC	CCI	Crown Castle International Corp.
+^GSPC	CSRA	CSRA Inc.
+^GSPC	CSX	CSX Corp.
+^GSPC	CMI	Cummins Inc.
+^GSPC	CVS	CVS Health
+^GSPC	DHI	D. R. Horton
+^GSPC	DHR	Danaher Corp.
+^GSPC	DRI	Darden Restaurants
+^GSPC	DVA	DaVita Inc.
+^GSPC	DE	Deere & Co.
+^GSPC	DLPH	Delphi Automotive
+^GSPC	DAL	Delta Air Lines
+^GSPC	XRAY	Dentsply Sirona
+^GSPC	DVN	Devon Energy Corp.
+^GSPC	DLR	Digital Realty Trust
+^GSPC	DFS	Discover Financial Services
+^GSPC	DISCA	Discovery Communications-A
+^GSPC	DISCK	Discovery Communications-C
+^GSPC	DG	Dollar General
+^GSPC	DLTR	Dollar Tree
+^GSPC	D	Dominion Resources
+^GSPC	DOV	Dover Corp.
+^GSPC	DOW	Dow Chemical
+^GSPC	DPS	Dr Pepper Snapple Group
+^GSPC	DTE	DTE Energy Co.
+^GSPC	DD	Du Pont (E.I.)
+^GSPC	DUK	Duke Energy
+^GSPC	DNB	Dun & Bradstreet
+^GSPC	ETFC	E*Trade
+^GSPC	EMN	Eastman Chemical
+^GSPC	ETN	Eaton Corporation
+^GSPC	EBAY	eBay Inc.
+^GSPC	ECL	Ecolab Inc.
+^GSPC	EIX	Edison Int'l
+^GSPC	EW	Edwards Lifesciences
+^GSPC	EA	Electronic Arts
+^GSPC	EMR	Emerson Electric Company
+^GSPC	ENDP	Endo International
+^GSPC	ETR	Entergy Corp.
+^GSPC	EVHC	Envision Healthcare Corp
+^GSPC	EOG	EOG Resources
+^GSPC	EQT	EQT Corporation
+^GSPC	EFX	Equifax Inc.
+^GSPC	EQIX	Equinix
+^GSPC	EQR	Equity Residential
+^GSPC	ESS	Essex Property Trust, Inc.
+^GSPC	EL	Estee Lauder Cos.
+^GSPC	ES	Eversource Energy
+^GSPC	EXC	Exelon Corp.
+^GSPC	EXPE	Expedia Inc.
+^GSPC	EXPD	Expeditors Int'l
+^GSPC	ESRX	Express Scripts
+^GSPC	EXR	Extra Space Storage
+^GSPC	XOM	Exxon Mobil Corp.
+^GSPC	FFIV	F5 Networks
+^GSPC	FB	Facebook
+^GSPC	FAST	Fastenal Co
+^GSPC	FRT	Federal Realty Investment Trust
+^GSPC	FDX	FedEx Corporation
+^GSPC	FIS	Fidelity National Information Services
+^GSPC	FITB	Fifth Third Bancorp
+^GSPC	FSLR	First Solar Inc
+^GSPC	FE	FirstEnergy Corp
+^GSPC	FISV	Fiserv Inc
+^GSPC	FLIR	FLIR Systems
+^GSPC	FLS	Flowserve Corporation
+^GSPC	FLR	Fluor Corp.
+^GSPC	FMC	FMC Corporation
+^GSPC	FTI	FMC Technologies Inc.
+^GSPC	FL	Foot Locker Inc
+^GSPC	F	Ford Motor
+^GSPC	FTV	Fortive Corp
+^GSPC	FBHS	Fortune Brands Home & Security
+^GSPC	BEN	Franklin Resources
+^GSPC	FCX	Freeport-McMoRan Inc.
+^GSPC	FTR	Frontier Communications
+^GSPC	GPS	Gap (The)
+^GSPC	GRMN	Garmin Ltd.
+^GSPC	GD	General Dynamics
+^GSPC	GE	General Electric
+^GSPC	GGP	General Growth Properties Inc.
+^GSPC	GIS	General Mills
+^GSPC	GM	General Motors
+^GSPC	GPC	Genuine Parts
+^GSPC	GILD	Gilead Sciences
+^GSPC	GPN	Global Payments Inc
+^GSPC	GS	Goldman Sachs Group
+^GSPC	GT	Goodyear Tire & Rubber
+^GSPC	GWW	Grainger (W.W.) Inc.
+^GSPC	HAL	Halliburton Co.
+^GSPC	HBI	Hanesbrands Inc
+^GSPC	HOG	Harley-Davidson
+^GSPC	HAR	Harman Int'l Industries
+^GSPC	HRS	Harris Corporation
+^GSPC	HIG	Hartford Financial Svc.Gp.
+^GSPC	HAS	Hasbro Inc.
+^GSPC	HCA	HCA Holdings
+^GSPC	HCP	HCP Inc.
+^GSPC	HP	Helmerich & Payne
+^GSPC	HES	Hess Corporation
+^GSPC	HPE	Hewlett Packard Enterprise
+^GSPC	HOLX	Hologic
+^GSPC	HD	Home Depot
+^GSPC	HON	Honeywell Int'l Inc.
+^GSPC	HRL	Hormel Foods Corp.
+^GSPC	HST	Host Hotels & Resorts
+^GSPC	HPQ	HP Inc.
+^GSPC	HUM	Humana Inc.
+^GSPC	HBAN	Huntington Bancshares
+^GSPC	IDXX	IDEXX Laboratories
+^GSPC	ITW	Illinois Tool Works
+^GSPC	ILMN	Illumina Inc
+^GSPC	IR	Ingersoll-Rand PLC
+^GSPC	INTC	Intel Corp.
+^GSPC	ICE	Intercontinental Exchange
+^GSPC	IBM	International Business Machines
+^GSPC	IP	International Paper
+^GSPC	IPG	Interpublic Group
+^GSPC	IFF	Intl Flavors & Fragrances
+^GSPC	INTU	Intuit Inc.
+^GSPC	ISRG	Intuitive Surgical Inc.
+^GSPC	IVZ	Invesco Ltd.
+^GSPC	IRM	Iron Mountain Incorporated
+^GSPC	JEC	Jacobs Engineering Group
+^GSPC	JBHT	J. B. Hunt Transport Services
+^GSPC	SJM	JM Smucker
+^GSPC	JNJ	Johnson & Johnson
+^GSPC	JCI	Johnson Controls International
+^GSPC	JPM	JPMorgan Chase & Co.
+^GSPC	JNPR	Juniper Networks
+^GSPC	KSU	Kansas City Southern
+^GSPC	K	Kellogg Co.
+^GSPC	KEY	KeyCorp
+^GSPC	KMB	Kimberly-Clark
+^GSPC	KIM	Kimco Realty
+^GSPC	KMI	Kinder Morgan
+^GSPC	KLAC	KLA-Tencor Corp.
+^GSPC	KSS	Kohl's Corp.
+^GSPC	KHC	Kraft Heinz Co
+^GSPC	KR	Kroger Co.
+^GSPC	LB	L Brands Inc.
+^GSPC	LLL	L-3 Communications Holdings
+^GSPC	LH	Laboratory Corp. of America Holding
+^GSPC	LRCX	Lam Research
+^GSPC	LEG	Leggett & Platt
+^GSPC	LEN	Lennar Corp.
+^GSPC	LVLT	Level 3 Communications
+^GSPC	LUK	Leucadia National Corp.
+^GSPC	LLY	Lilly (Eli) & Co.
+^GSPC	LNC	Lincoln National
+^GSPC	LLTC	Linear Technology Corp.
+^GSPC	LKQ	LKQ Corporation
+^GSPC	LMT	Lockheed Martin Corp.
+^GSPC	L	Loews Corp.
+^GSPC	LOW	Lowe's Cos.
+^GSPC	LYB	LyondellBasell
+^GSPC	MTB	M&T Bank Corp.
+^GSPC	MAC	Macerich
+^GSPC	M	Macy's Inc.
+^GSPC	MNK	Mallinckrodt Plc
+^GSPC	MRO	Marathon Oil Corp.
+^GSPC	MPC	Marathon Petroleum
+^GSPC	MAR	Marriott Int'l.
+^GSPC	MMC	Marsh & McLennan
+^GSPC	MLM	Martin Marietta Materials
+^GSPC	MAS	Masco Corp.
+^GSPC	MA	Mastercard Inc.
+^GSPC	MAT	Mattel Inc.
+^GSPC	MKC	McCormick & Co.
+^GSPC	MCD	McDonald's Corp.
+^GSPC	MCK	McKesson Corp.
+^GSPC	MJN	Mead Johnson
+^GSPC	MDT	Medtronic plc
+^GSPC	MRK	Merck & Co.
+^GSPC	MET	MetLife Inc.
+^GSPC	MTD	Mettler Toledo
+^GSPC	KORS	Michael Kors Holdings
+^GSPC	MCHP	Microchip Technology
+^GSPC	MU	Micron Technology
+^GSPC	MSFT	Microsoft Corp.
+^GSPC	MAA	Mid-America Apartments
+^GSPC	MHK	Mohawk Industries
+^GSPC	TAP	Molson Coors Brewing Company
+^GSPC	MDLZ	Mondelez International
+^GSPC	MON	Monsanto Co.
+^GSPC	MNST	Monster Beverage
+^GSPC	MCO	Moody's Corp
+^GSPC	MS	Morgan Stanley
+^GSPC	MOS	The Mosaic Company
+^GSPC	MSI	Motorola Solutions Inc.
+^GSPC	MUR	Murphy Oil
+^GSPC	MYL	Mylan N.V.
+^GSPC	NDAQ	NASDAQ OMX Group
+^GSPC	NOV	National Oilwell Varco Inc.
+^GSPC	NAVI	Navient
+^GSPC	NTAP	NetApp
+^GSPC	NFLX	Netflix Inc.
+^GSPC	NWL	Newell Brands
+^GSPC	NFX	Newfield Exploration Co
+^GSPC	NEM	Newmont Mining Corp. (Hldg. Co.)
+^GSPC	NWSA	News Corp. Class A
+^GSPC	NWS	News Corp. Class B
+^GSPC	NEE	NextEra Energy
+^GSPC	NLSN	Nielsen Holdings
+^GSPC	NKE	Nike
+^GSPC	NI	NiSource Inc.
+^GSPC	NBL	Noble Energy Inc
+^GSPC	JWN	Nordstrom
+^GSPC	NSC	Norfolk Southern Corp.
+^GSPC	NTRS	Northern Trust Corp.
+^GSPC	NOC	Northrop Grumman Corp.
+^GSPC	NRG	NRG Energy
+^GSPC	NUE	Nucor Corp.
+^GSPC	NVDA	Nvidia Corporation
+^GSPC	ORLY	O'Reilly Automotive
+^GSPC	OXY	Occidental Petroleum
+^GSPC	OMC	Omnicom Group
+^GSPC	OKE	ONEOK
+^GSPC	ORCL	Oracle Corp.
+^GSPC	PCAR	PACCAR Inc.
+^GSPC	PH	Parker-Hannifin
+^GSPC	PDCO	Patterson Companies
+^GSPC	PAYX	Paychex Inc.
+^GSPC	PYPL	PayPal
+^GSPC	PNR	Pentair Ltd.
+^GSPC	PBCT	People's United Financial
+^GSPC	PEP	PepsiCo Inc.
+^GSPC	PKI	PerkinElmer
+^GSPC	PRGO	Perrigo
+^GSPC	PFE	Pfizer Inc.
+^GSPC	PCG	PG&E Corp.
+^GSPC	PM	Philip Morris International
+^GSPC	PSX	Phillips 66
+^GSPC	PNW	Pinnacle West Capital
+^GSPC	PXD	Pioneer Natural Resources
+^GSPC	PBI	Pitney-Bowes
+^GSPC	PNC	PNC Financial Services
+^GSPC	RL	Polo Ralph Lauren Corp.
+^GSPC	PPG	PPG Industries
+^GSPC	PPL	PPL Corp.
+^GSPC	PX	Praxair Inc.
+^GSPC	PCLN	Priceline.com Inc
+^GSPC	PFG	Principal Financial Group
+^GSPC	PG	Procter & Gamble
+^GSPC	PGR	Progressive Corp.
+^GSPC	PLD	Prologis
+^GSPC	PRU	Prudential Financial
+^GSPC	PEG	Public Serv. Enterprise Inc.
+^GSPC	PSA	Public Storage
+^GSPC	PHM	Pulte Homes Inc.
+^GSPC	PVH	PVH Corp.
+^GSPC	QRVO	Qorvo
+^GSPC	PWR	Quanta Services Inc.
+^GSPC	QCOM	QUALCOMM Inc.
+^GSPC	DGX	Quest Diagnostics
+^GSPC	RRC	Range Resources Corp.
+^GSPC	RTN	Raytheon Co.
+^GSPC	O	Realty Income Corporation
+^GSPC	RHT	Red Hat Inc.
+^GSPC	REGN	Regeneron
+^GSPC	RF	Regions Financial Corp.
+^GSPC	RSG	Republic Services Inc
+^GSPC	RAI	Reynolds American Inc.
+^GSPC	RHI	Robert Half International
+^GSPC	ROK	Rockwell Automation Inc.
+^GSPC	COL	Rockwell Collins
+^GSPC	ROP	Roper Industries
+^GSPC	ROST	Ross Stores
+^GSPC	RCL	Royal Caribbean Cruises Ltd
+^GSPC	R	Ryder System
+^GSPC	CRM	Salesforce.com
+^GSPC	SCG	SCANA Corp
+^GSPC	SLB	Schlumberger Ltd.
+^GSPC	SNI	Scripps Networks Interactive Inc.
+^GSPC	STX	Seagate Technology
+^GSPC	SEE	Sealed Air
+^GSPC	SRE	Sempra Energy
+^GSPC	SHW	Sherwin-Williams
+^GSPC	SIG	Signet Jewelers
+^GSPC	SPG	Simon Property Group Inc
+^GSPC	SWKS	Skyworks Solutions
+^GSPC	SLG	SL Green Realty
+^GSPC	SNA	Snap-On Inc.
+^GSPC	SO	Southern Co.
+^GSPC	LUV	Southwest Airlines
+^GSPC	SWN	Southwestern Energy
+^GSPC	SE	Spectra Energy Corp.
+^GSPC	SPGI	S&P Global, Inc.
+^GSPC	SWK	Stanley Black & Decker
+^GSPC	SPLS	Staples Inc.
+^GSPC	SBUX	Starbucks Corp.
+^GSPC	STT	State Street Corp.
+^GSPC	SRCL	Stericycle Inc
+^GSPC	SYK	Stryker Corp.
+^GSPC	STI	SunTrust Banks
+^GSPC	SYMC	Symantec Corp.
+^GSPC	SYF	Synchrony Financial
+^GSPC	SYY	Sysco Corp.
+^GSPC	TROW	T. Rowe Price Group
+^GSPC	TGT	Target Corp.
+^GSPC	TEL	TE Connectivity Ltd.
+^GSPC	TGNA	Tegna, Inc.
+^GSPC	TDC	Teradata Corp.
+^GSPC	TSO	Tesoro Petroleum Co.
+^GSPC	TXN	Texas Instruments
+^GSPC	TXT	Textron Inc.
+^GSPC	COO	The Cooper Companies
+^GSPC	HSY	The Hershey Company
+^GSPC	TRV	The Travelers Companies Inc.
+^GSPC	TMO	Thermo Fisher Scientific
+^GSPC	TIF	Tiffany & Co.
+^GSPC	TWX	Time Warner Inc.
+^GSPC	TJX	TJX Companies Inc.
+^GSPC	TMK	Torchmark Corp.
+^GSPC	TSS	Total System Services
+^GSPC	TSCO	Tractor Supply Company
+^GSPC	TDG	TransDigm Group
+^GSPC	RIG	Transocean
+^GSPC	TRIP	TripAdvisor
+^GSPC	FOXA	Twenty-First Century Fox Class A
+^GSPC	FOX	Twenty-First Century Fox Class B
+^GSPC	TSN	Tyson Foods
+^GSPC	UDR	UDR Inc
+^GSPC	ULTA	Ulta Salon Cosmetics & Fragrance Inc
+^GSPC	USB	U.S. Bancorp
+^GSPC	UA	Under Armour
+^GSPC	UAA	Under Armour
+^GSPC	UNP	Union Pacific
+^GSPC	UAL	United Continental Holdings
+^GSPC	UNH	United Health Group Inc.
+^GSPC	UPS	United Parcel Service
+^GSPC	URI	United Rentals, Inc.
+^GSPC	UTX	United Technologies
+^GSPC	UHS	Universal Health Services, Inc.
+^GSPC	UNM	Unum Group
+^GSPC	URBN	Urban Outfitters
+^GSPC	VFC	V.F. Corp.
+^GSPC	VLO	Valero Energy
+^GSPC	VAR	Varian Medical Systems
+^GSPC	VTR	Ventas Inc
+^GSPC	VRSN	Verisign Inc.
+^GSPC	VRSK	Verisk Analytics
+^GSPC	VZ	Verizon Communications
+^GSPC	VRTX	Vertex Pharmaceuticals Inc
+^GSPC	VIAB	Viacom Inc.
+^GSPC	V	Visa Inc.
+^GSPC	VNO	Vornado Realty Trust
+^GSPC	VMC	Vulcan Materials
+^GSPC	WMT	Wal-Mart Stores
+^GSPC	WBA	Walgreens Boots Alliance
+^GSPC	DIS	The Walt Disney Company
+^GSPC	WM	Waste Management Inc.
+^GSPC	WAT	Waters Corporation
+^GSPC	WEC	Wec Energy Group Inc
+^GSPC	WFC	Wells Fargo
+^GSPC	HCN	Welltower Inc.
+^GSPC	WDC	Western Digital
+^GSPC	WU	Western Union Co
+^GSPC	WRK	WestRock Company
+^GSPC	WY	Weyerhaeuser Corp.
+^GSPC	WHR	Whirlpool Corp.
+^GSPC	WFM	Whole Foods Market
+^GSPC	WMB	Williams Cos.
+^GSPC	WLTW	Willis Towers Watson
+^GSPC	WYN	Wyndham Worldwide
+^GSPC	WYNN	Wynn Resorts Ltd
+^GSPC	XEL	Xcel Energy Inc
+^GSPC	XRX	Xerox Corp.
+^GSPC	XLNX	Xilinx Inc
+^GSPC	XL	XL Capital
+^GSPC	XYL	Xylem Inc.
+^GSPC	YHOO	Yahoo Inc.
+^GSPC	YUM	Yum! Brands Inc
+^GSPC	ZBH	Zimmer Biomet Holdings
+^GSPC	ZION	Zions Bancorp
+^GSPC	ZTS	Zoetis

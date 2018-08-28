@@ -1,0 +1,22 @@
+US$ USD
+C$ CAD
+EUR EUR
+p GBP
+Nkr NOK
+SFr CHF
+Dkr DKK
+Skr SEK
+¥ JPY
+Rmb CNY
+HK$ HKD
+S$ SGD
+Rs INR
+Rp IDR
+W KRW
+RM MYR
+P PHP
+NT$ TWD 
+A$ AUD
+NZ$ NZD
+
+

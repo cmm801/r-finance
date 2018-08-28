@@ -1,0 +1,44 @@
+Symbol	Description
+ACS	Acs Cons Y Serv
+ALB	Corp Fin Alba
+AMP	Amper
+ANA	Acciona
+BDL	Baron De Ley
+BIO	Puleva Biotech
+CAF	Cons Aux Ferr
+CPL	Cem Portland
+DIN	Dinamia
+ECR	Ercros
+ELE	Endesa
+ENC	Empresarial Ence
+FAE	Faes Farma
+FCC	Fomento De Const
+FER	Grupo Ferrovial
+GAM	Gamesa
+GAS	Gas Natural
+GCO	Cat Occidente
+IBG	Iberpapel
+IDR	Indra Sistemas
+ITX	Inditex
+JAZ	Jazztel
+LGT	Lingotes Esp
+MAP	Mapfre
+MCM	Miquel Y Costas
+MDF	Duro Felguera
+NAT	Natra
+NEA	Nicolas Correa
+NHH	Nh Hoteles
+PAC	Pap Y Cart Euro
+PRS	Prisa
+PSG	Prosegur
+REE	Red Electrica
+REP	Repsol SA
+RIO	Bodegas Riojanas
+SAB	Bco De Sabadell
+SAN	Banco Santander
+TUB	Tubacex
+UBS	Urbas
+URA	Uralita
+VID	Vidrala
+ZEL	Zeltia
+ZOT	Zardoya Otis
